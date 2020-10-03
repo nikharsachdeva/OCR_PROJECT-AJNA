@@ -161,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+/* This code is commented */
 
        /*public void uploadtophp (View view) {
             Registration_Plates = editText.getText().toString().trim();
